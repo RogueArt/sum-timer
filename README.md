@@ -22,8 +22,8 @@ Initially, the timer starts in an unpaused state, counting up at a rate of 1. Yo
 ![image](https://user-images.githubusercontent.com/57082175/116983070-7db80200-ac7e-11eb-8c1c-b734a4948030.png)
 
 ## Timer counting down & up (Video)
+![up-down-timer-gif](https://github.com/RogueArt/up-down-timer/assets/57082175/d38eae31-02ba-409a-9d0e-d1f3ef5e1222)
 
-TO-DO
 # Installation
 **This timer only works on Windows.**
 The current Windows release is available on this Github page under releases.
